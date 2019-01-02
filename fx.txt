@@ -2,7 +2,7 @@
 	"data": [{
 
 			"title": "广告位招租",
-			"img": "http://pan.i8l.cn/data/guangg.png",
+			"img": "http://pan.i8l.cn/data/QQ截图20181013214945.jpg",
 			"url": "http://wpa.qq.com/msgrd?v=3&uin=2298950301"
 		},
 		{
